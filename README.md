@@ -5,7 +5,7 @@
 
 - 🖥️ I'm a Software Engineer from India.
   
-- 👨‍💻 I'm currently working as WPF Developer
+- 👨‍💻 I'm currently working as Full-Stack Developer at a company
 
 - 💬 Ask me about **Mobile/Web/Desktop app development and Machine Learning**
 
