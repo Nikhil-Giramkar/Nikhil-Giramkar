@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-giramkar&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-giramkar" /> </p>
 
 - 🖥️ I'm a Senior Software Engineer from India.
-  
-- 👨‍💻 I'm currently working as a Team Lead & Full-Stack Developer at a company
 
 - 💬 Ask me about **Mobile/Web/Desktop app development and Machine Learning**
 
